@@ -1,0 +1,7 @@
+## Interface: 110000
+## Version: 0.0.1
+## Title: ElvUI Auto Installer
+## Notes: Auto installs the ElvUI addon
+## Author: Alexandre Perron
+
+elvui-auto-installer.lua

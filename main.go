@@ -15,10 +15,6 @@ type TukuiResponse struct {
 	Url string
 }
 
-type Config struct {
-	Destination string `yaml:"destination"`
-}
-
 func checkErr(err error) {
 	if err != nil {
 		panic(err)

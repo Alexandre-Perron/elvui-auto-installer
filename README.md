@@ -19,4 +19,4 @@ To build for all platform (if you are on Unix) :
 
 ## Use
 
-Put the executable in your `addons` folder and run it!
+Download and unzip `elvui-auto-installer` in your `addons` folder and run `/updateelvui` in game to update ElvUI!
